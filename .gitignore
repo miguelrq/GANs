@@ -5,8 +5,7 @@
 .DS_Store
 
 data/*/
-implementations/*/images
+implementations/*/images/*.png
 implementations/*/saved_models
-images/*
 
 __pycache__
